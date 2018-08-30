@@ -1,0 +1,15 @@
+
+.orderQuantity {
+	position: absolute;
+	left: 240px;
+}
+
+.buttonMinus {
+	position: absolute;
+	left: 291px;
+}
+
+.buttonPlus {
+	position: absolute;
+	left: 321px;
+}

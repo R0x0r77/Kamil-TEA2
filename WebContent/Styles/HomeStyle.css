@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+}
+
+form {
+	float: left;
+	padding: 8px;
+}
+
+button {
+	width: 160px;
+	height: 80px;
+	font-size: 16px;
+}

@@ -1,0 +1,40 @@
+body {
+	font-family: Arial;
+}
+
+form {
+	border: 3px solid #f1f1f1;
+	padding: 10px;
+	width: 333px;
+}
+
+button {
+	width: 164px;
+	height: 40px;
+	padding: 8px 15px;
+	margin: 10px 0;
+	border: none;
+	cursor: pointer;
+	color: white;
+}
+
+button:hover {
+	opacity: 0.8;
+}
+
+.buttonCancel {
+	background-color: #fd3631;
+}
+
+.buttonSignUp {
+	background-color: #0080ff;
+}
+
+input[type=text], input[type=password] {
+	width: 300px;
+    padding: 8px 15px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
